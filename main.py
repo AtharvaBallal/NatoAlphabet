@@ -18,4 +18,5 @@ def generate_phonatic():
     else:
         print(output)
 
+
 generate_phonatic()
